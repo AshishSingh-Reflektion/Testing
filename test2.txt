@@ -1,0 +1,9 @@
+this is another file for learning the git
+I am overwhelmed by the power of the git and its awesome 
+but not I a cannot and the 
+
+check staging
+
+
+making changes after it has been staged
+
