@@ -7,3 +7,4 @@ check staging
 
 making changes after it has been staged
 
+another change
